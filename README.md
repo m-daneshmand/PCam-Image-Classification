@@ -12,9 +12,9 @@ This project consists of five folder related to five different approaches mentio
 
 * **Run-KNN.py** run this file to start fitting KNN on train data. (The number of neighbors can be easily set to related argument in this file)
 
-* **data/** run this file to start testing the model.
+* **data/** Downloaded dataset should be placed in this directory.
 
-* **model/** run this file to start testing the model.
+* **model/** After training the model, pre-trained weights will be stored in this directory. 
 
-* **log/** run this file to start testing the model.
+* **log/** After testing the model, results will be generated in this directory. 
 
