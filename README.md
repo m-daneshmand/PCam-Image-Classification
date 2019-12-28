@@ -6,7 +6,8 @@ This project aims at comparing several techniques for detection of cancerous tis
 # Code structure
 This project consists of five folder related to five different approaches mentioned above (CIFAR-10 - 70 – KNN, PCam – Pretrained, PCam - Pretrained - TripletLoss – KNN, PCam - Scratch – KNN, PCam - Scratch - TripletLoss – KNN). All of them have the same structure in which three python files are located to run. These files are listed as below: 
 
-•	Run-Train.py run this file to start training the model.
+# •	Run-Train.py
+run this file to start training the model.
 
 •	Run-Test.py run this file to start testing the model.
 
